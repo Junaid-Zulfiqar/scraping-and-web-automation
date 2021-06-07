@@ -1,0 +1,7 @@
+website-link : https://www.footballdb.com/scores/index.html?lg=NFL&yr=2020
+
+HI, I have chosen this website because this website contains all your required data and you can scrape data on daily updates.
+The script file will run in the jupyter notebook if you have not installed jupyter notebook.That's no 
+problem you can run this script in google colab.
+
+Thank you for ordering!
